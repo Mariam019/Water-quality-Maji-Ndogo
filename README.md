@@ -44,5 +44,6 @@ Interpreted visual insights to formulate actionable recommendations.
 
 ## Contact 
 For any questions or collaboration opportunities, feel free to reach out!
+
 📧 Email: zaoui.mar01@gmail.com
   
