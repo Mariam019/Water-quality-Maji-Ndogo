@@ -13,7 +13,9 @@ This project focuses on analyzing a dataset to extract meaningful insights and u
 
 ## Tools & Technologies
 **SQL:** Used for querying, filtering, and processing datasets.
+
 **Datasheets:** Initial data storage and processing.
+
 **Power BI:** Used for visualizing and presenting insights in an interactive manner.
 
 
