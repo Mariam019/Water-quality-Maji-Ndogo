@@ -21,9 +21,11 @@ This project focuses on analyzing a dataset to extract meaningful insights and u
 **1- Data Preparation:**
 Uploaded pre-existing datasets for analysis.
 Ensured data cleanliness and consistency.
+
 **2- Data Analysis:**
 Utilized SQL queries to extract and process relevant data.
 Identified key patterns, trends, and anomalies impacting water quality and infrastructure.
+
 **3- Visualization & Interpretation:**
 Developed Power BI dashboards to present findings in a clear and interactive format.
 Interpreted visual insights to formulate actionable recommendations.
